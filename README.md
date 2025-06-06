@@ -57,3 +57,7 @@ In this exercise, you will:
 [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="zakariya-elkharroubi-73950636a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/zakariya-elkharroubi-73950636a/fr?trk=profile-badge">zakariya elkharroubi</a></div>
+              
